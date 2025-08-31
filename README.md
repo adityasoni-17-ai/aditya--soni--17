@@ -1,2 +1,2 @@
-# aditya--soni--17
-Water-potability-prediction-using-Machine-Learning
+# Water-potability-prediction-using-Machine-Learning
+This project aims to predict the potability of water using machine learning algorithms. The water quality is determined based on several features including pH values, hardness, Total Dissolved Solids (TDS), Chloramines, Sulphate, conductivity, Organic Carbon, Trihalomethanes, and Turbidity. The goal is to classify the water as potable or non-potable using machine learning classification algorithms such are, Decision tree, Logistic algorithm, XGBoost, Random Forest, SVM, KNN. But we obtained the highest accuracy with XGBoost which is 78.18%.
